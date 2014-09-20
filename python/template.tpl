@@ -24,11 +24,6 @@
 			<div class="col_2">
 			</div>
 			<div class="col_8">
-				<div align="center">
-					<ol>
-					<li><a href="p1.html">Python ことはじめ</a></li>
-					</ol>
-				</div>
 				<hr>
 				<div align="right">
 					<p>
