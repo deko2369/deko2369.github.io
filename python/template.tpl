@@ -25,6 +25,11 @@
 			</div>
 			<div class="col_8">
 				<hr>
+				<div style="text-align: center">
+					<a href="index.html">TOP へ戻る</a>
+					<span style="float: left">&lt;&lt; Previous</span>
+					<span style="float: right">Next &gt;&gt;</span>
+				</div>
 				<div align="right">
 					<p>
 					(C) 2014 deko2369 All rights reserved.
