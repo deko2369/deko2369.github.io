@@ -30,7 +30,7 @@
 					<span style="float: left">&lt;&lt; Previous</span>
 					<span style="float: right">Next &gt;&gt;</span>
 				</div>
-				<div align="right">
+				<div style="text-align: right">
 					<p>
 					(C) 2014 deko2369 All rights reserved.
 					<a href="https://twitter.com/deko2369/" target="_blank">Twitter</a>
